@@ -1,4 +1,5 @@
- // Classifier Variable
+<script type="text/javascript"> 
+// Classifier Variable
  let classifier;
  // Model URL
  let imageModelURL = 'https://teachablemachine.withgoogle.com/models/dJeXVhBYc/';
